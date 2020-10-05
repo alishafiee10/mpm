@@ -56,7 +56,7 @@ class NearMeState extends State<NearMeStf> {
           height: MediaQuery.of(context).size.height * 0.78,
           width: MediaQuery.of(context).size.width * 0.95,
           decoration: BoxDecoration(
-              borderRadius: BorderRadius.all(Radius.circular(13)),
+              borderRadius: BorderRadius.all(Radius.circular(33)),
               color: Colors.grey),
           child: Stack(
             children: <Widget>[
