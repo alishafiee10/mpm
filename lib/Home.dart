@@ -41,16 +41,7 @@ class HomeState extends State<HomeStf> {
                         gradient: LinearGradient(
                             begin: Alignment.topRight,
                             end: Alignment.bottomLeft,
-                            // stops: [
-                            //   0,
-                            //   0.6,
-                            //   0.9
-                            // ],
-                            // colors: [
-                            //   Color(0xffc837ab),
-                            //   Color(0xffff543e),
-                            //   Color(0xffffdd55)
-                            // ]
+                            // +
                         )),
                     child: FlatButton(
                       padding: EdgeInsets.all(1),
