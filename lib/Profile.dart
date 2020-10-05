@@ -43,10 +43,10 @@ class ProfileState extends State<ProfileStf> {
                               shape: BoxShape.circle,
                               gradient: LinearGradient(
 
-                                  colors: [
-                                    Color(0xff7820ad),
-                                    Color(0xff0bfc6b)
-                                  ]
+                                  // colors: [
+                                  //   Color(0xff7820ad),
+                                  //   Color(0xff0bfc6b)
+                                  // ]
                               )
                           ),
                           child: new Container(
@@ -101,10 +101,10 @@ class ProfileState extends State<ProfileStf> {
                             gradient: LinearGradient(
                               begin: Alignment.centerRight,
                               end: Alignment.centerLeft,
-                              colors: [
-                                Color(0xff7130a8),
-                                Color(0xff13ea70)
-                              ]
+                              // colors: [
+                              //   Color(0xff7130a8),
+                              //   Color(0xff13ea70)
+                              // ]
                             ),
                                 borderRadius: BorderRadius.circular(20),
                           ),

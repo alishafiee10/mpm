@@ -23,8 +23,8 @@ environment:
 dependencies:
   flutter_map:
   flutter:
-    assets:
-      - assets/images/lake.jpg
+#    assets:
+#      - assets/images/lake.jpg
     sdk: flutter
 
 
